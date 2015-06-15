@@ -1,0 +1,6 @@
+library $/crypto-hash-openssl
+allow url https://secure.gravatar.com/avatar/*
+
+$/list
+$/string
+gravatar
